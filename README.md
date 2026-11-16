@@ -475,6 +475,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- <img src="https://sandmatter.com/press/instant-dj-icon-1024.png" height="14"/> [Instant DJ](https://sandmatter.com/instant-dj/mcp)<sup><sup>⭐</sup></sup> - Official MCP server built into Instant DJ for Mac: an AI assistant composes songs in the Studio, writes loops, mixes, masters to a target loudness and exports WAV, stems or MIDI. Local only.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
